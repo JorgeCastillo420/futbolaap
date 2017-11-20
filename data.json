@@ -1,0 +1,38 @@
+{
+
+    "games": [{
+
+        "equipo1": "escudo1.png",
+        "equipo2": "escudo4.png",
+        "Date": "02/11/17 11:30"
+       
+        }, {
+
+        "equipo1": "escudo2.png",
+        "equipo2": "escudo5.png",
+        "Date": "04/11/17 11:30"
+
+        }, {
+
+        "equipo1": "escudo3.png",
+        "equipo2": "escudo6.png",
+        "Date": "06/11/17 11:30"
+
+        }, {
+
+        "equipo1": "escudo7.png",
+        "equipo2": "escudo9.png",
+        "Date": "08/11/17 11:30"
+        }, {
+
+        "equipo1": "escudo8.png",
+        "equipo2": "escudo10.png",
+        "Date": "10/11/17 11:30"
+        }, {
+
+        "equipo1": "escudo9.png",
+        "equipo2": "escudo11.png",
+        "Date": "12/11/17 11:30"
+        }]
+
+}
